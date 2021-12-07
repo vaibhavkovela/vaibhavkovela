@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kovela</h1>
-<h3 align="center">MentalStates = ['¯\_◉‿◉_/¯' , '╭( ๐ _๐)╮' , '( ⚆ _ ⚆ )']</h3>
+<h3 align="center">MentalStates = [' ¯\_◉‿◉_/¯ ' , ' ╭( ๐ _๐)╮ ' , ' ( ⚆ _ ⚆ ) ']</h3>
 
 - 📫 How to reach me **vaibhavvishnu0806@gmail.com**
 
